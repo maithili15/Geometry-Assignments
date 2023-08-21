@@ -1,0 +1,6 @@
+﻿  Drawing Object.cpp
+c:\users\maithili.mali\source\repos\drawing object\drawing object\drawing object.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\maithili.mali\source\repos\drawing object\drawing object\drawing object.cpp(58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\maithili.mali\source\repos\drawing object\drawing object\drawing object.cpp(75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\maithili.mali\source\repos\drawing object\drawing object\drawing object.cpp(92): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Drawing Object.vcxproj -> C:\Users\Maithili.Mali\source\repos\Drawing Object\Debug\Drawing Object.exe
